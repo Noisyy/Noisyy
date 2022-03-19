@@ -11,10 +11,12 @@
   <img src="https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif" width="480" height="240" allowFullScreen></img>
 </p>
 
-- Java ☕
-- C/C++
-- C#
-- HTML/CSS
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+
   
 ---
 
