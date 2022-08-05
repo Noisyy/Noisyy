@@ -3,7 +3,6 @@
 ### I'm Internship Programmer, i study and live in Ho Chi Minh City and i hope i can learn a lot form you 😉.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noisyy&include_all_commits=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noisyy&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## ❓ I’m currently knowing:<br>
@@ -36,6 +35,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Noisyy_NN?label=Twitter&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Noisyy?label=GitHub&style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/noisyy_nn?label=Reddit&style=social)
+![CodeWars Level](https://www.codewars.com/users/noisyy/badges/micro)
 
 
 <!--
