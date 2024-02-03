@@ -26,8 +26,6 @@
 
 
 - Docker 🐳
-- Flutter 🇫
-- GoLang 🐹
 - Postgresql 🐘<br>
 
 ---
